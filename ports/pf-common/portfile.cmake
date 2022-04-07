@@ -2,6 +2,8 @@ vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
 	REPO PetrFlajsingr/pf_common
 	HEAD_REF main 
+	REF aea503cdf2a684ac946e9551a68bf5bcab2b2dbb
+	SHA512 1
 )
 
 vcpkg_configure_cmake(
