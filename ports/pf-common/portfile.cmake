@@ -1,7 +1,7 @@
 vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
 	REPO PetrFlajsingr/pf_common
-	HEAD_REF vcpkg_dependencies 
+	HEAD_REF main 
 )
 
 vcpkg_configure_cmake(
