@@ -2,8 +2,8 @@ vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
 	REPO PetrFlajsingr/pf_glfw
 	HEAD_REF vcpkg_dependencies 
-	REF 122cda09552569daae8770ae33dd17eb9e1ec8ab
-	SHA512 a2b2a3a22699f5669ca5f979821fba71a9dd32d1099ad2aabdd66e4bbbab761527b81cfa8357fbfb383cb13be7252ae55561e1d9280e79f36c554149aaec774f
+	REF a31843478266504f2251ffa2cf4e76636d0a6b60
+	SHA512 0
 )
 
 vcpkg_configure_cmake(
