@@ -2,7 +2,7 @@ vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
 	REPO PetrFlajsingr/pf_mainloop
 	HEAD_REF vcpkg_dependencies 
-	REF a83d938afcfb248637946982e60b3834b01a4d1a
+	REF 9edc4601a40e456fc9d77e506b82696397c96482
 	SHA512 0
 )
 
