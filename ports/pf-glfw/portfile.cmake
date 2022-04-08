@@ -3,7 +3,7 @@ vcpkg_from_github(
 	REPO PetrFlajsingr/pf_glfw
 	HEAD_REF vcpkg_dependencies 
 	REF 122cda09552569daae8770ae33dd17eb9e1ec8ab
-	SHA512 0
+	SHA512 a2b2a3a22699f5669ca5f979821fba71a9dd32d1099ad2aabdd66e4bbbab761527b81cfa8357fbfb383cb13be7252ae55561e1d9280e79f36c554149aaec774f
 )
 
 vcpkg_configure_cmake(
