@@ -11,7 +11,4 @@ vcpkg_configure_cmake(
 	PREFER_NINJA
 )
 vcpkg_install_cmake()
-vcpkg_cmake_config_fixup(
-	PACKAGE_NAME "pf-glfw"
-	CONFIG_PATH "lib/cmake/pf_glfw"
-)
+vcpkg_cmake_config_fixup(PACKAGE_NAME "pf-glfw" CONFIG_PATH "lib/cmake/pf_glfw")
