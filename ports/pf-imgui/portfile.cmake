@@ -3,7 +3,7 @@ vcpkg_from_github(
 	REPO PetrFlajsingr/pf_imgui
 	HEAD_REF vcpkg_dependencies 
 	REF 69918b4003e51db1059e9e223d8d03165c74ab93
-	SHA512 0
+	SHA512 2ea68bf30149f79c950c01ac6c21cff909a84112ed4ee6cfdeb0930dd55563eb32a0edebdd07ae1da6c6032a122127496bf2e1c5dcc33ba12740327333165b60
 )
 
 vcpkg_configure_cmake(
