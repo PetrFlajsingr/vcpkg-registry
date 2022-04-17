@@ -3,7 +3,7 @@ vcpkg_from_github(
 	REPO PetrFlajsingr/pf_imgui
 	HEAD_REF master 
 	REF 80306844e7feb725bc86e03af7368581c32e18f2
-	SHA512 0
+	SHA512 afb282b9e4d9262f3f349e6d1b0a4b8a0ccf36297459840367157a0f1850b776b8d3573a75b38763baf26b3c4ca34593e099fb397b0e2c75de7cf0c542482fb7
 )
 
 vcpkg_configure_cmake(
