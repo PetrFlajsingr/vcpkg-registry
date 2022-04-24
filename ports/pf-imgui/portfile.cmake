@@ -2,7 +2,7 @@ vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
 	REPO PetrFlajsingr/pf_imgui
 	HEAD_REF master 
-	REF a5f2623c3d22f745f2a893b340f9dbc6fa41091f
+	REF 2e8b44a8c2da33bb11031ca7e9c83930afbd0820
 	SHA512 0
 )
 
