@@ -2,7 +2,7 @@ vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
 	REPO PetrFlajsingr/pf_common
 	HEAD_REF master 
-	REF bae8f8c7d837c631ca72daec4b14e243824135a5
+	REF dd8db4cafcb4cd7913a06c6e021ca25cf6bbb66e
 	SHA512 0
 )
 
