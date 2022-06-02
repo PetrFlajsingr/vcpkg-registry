@@ -7,6 +7,10 @@
 		{
 			"version": "1.2.2",
 			"git-tree": "3e58e749a894ce4706fd23c42cdd25f221046073"
+		},
+		{
+			"version": "1.2.3",
+			"git-tree": "3e58e749a894ce4706fd23c42cdd25f221046073"
 		}
 	]
 }
