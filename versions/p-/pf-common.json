@@ -24,5 +24,9 @@
 			"version": "1.2.6",
 			"git-tree": "769dec28a6af300107dc0e86f6714ae09a472c21"
 		}
+		{
+			"version": "1.2.7",
+			"git-tree": "efc714b29060e20b1e6e6579544628144f6c053f"
+		}
 	]
 }
