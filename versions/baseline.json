@@ -1,7 +1,7 @@
 {
   "default": {
     "pf-common": { "baseline": "1.2.7", "port-version": 0 },
-    "pf-glfw": { "baseline": "0.2.2", "port-version": 0 },
+    "pf-glfw": { "baseline": "0.2.3", "port-version": 0 },
     "pf-mainloop": { "baseline": "1.0.3", "port-version": 0 },
     "pf-imgui": { "baseline": "0.9.0", "port-version": 0 }
   }
