@@ -3,7 +3,7 @@ vcpkg_from_github(
 	REPO PetrFlajsingr/pf_common
 	HEAD_REF master 
 	REF 0f24eff3210fcad2cf27dfd7473a2b003d7cd1a7
-	SHA512 0
+	SHA512 45e21df0b161488ec13943a3f9b6708245d990c6fa212246a393494482b14fc2087df799a77087575fc93ac0c26984ba062efe502b782c7b3517ac7100c50819
 )
 
 vcpkg_configure_cmake(
